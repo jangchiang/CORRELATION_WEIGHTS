@@ -1,8 +1,6 @@
 # Correlation Weights และ Feature Importance สำหรับ Dominant Factor Analysis
 
-**วันที่สร้าง:** 9 ธันวาคม 2025
-**Model Version:** v12.0 (Manual Stacking Ensemble)
-**วัตถุประสงค์:** ข้อมูลสำหรับหา Dominant Factor ของแต่ละ Load Type
+
 
 ---
 
